@@ -1,1 +1,1 @@
-![top-5](./top-5.jpg)
+<img src="src/assessment.jpg" width="480">
